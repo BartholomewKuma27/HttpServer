@@ -1,0 +1,13 @@
+vhost = host1.com
+documentroot = /home/ika/Desktop/assigns/TeamG/Project6/host1
+cgi-bin = /home/ika/Desktop/assigns/TeamG/Project6/host1/cgi-bin
+ip = 127.0.0.1
+port = 8080
+log = /home/ika/Desktop/assigns/TeamG/Project6/host1/logs/host1.log
+
+vhost = host2.com
+documentroot = /home/ika/Desktop/assigns/TeamG/Project6/host2
+cgi-bin = 
+ip = 127.0.0.1
+port = 9090
+log = /home/ika/Desktop/assigns/TeamG/Project6/host2/logs/host2.log
